@@ -9,4 +9,4 @@ def generate_power_set(nums):
     return power_set
 
 nums = [1, 2, 3]
-generate_power_set(nums)
+print(generate_power_set(nums))
