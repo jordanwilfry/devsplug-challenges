@@ -1,3 +1,5 @@
+// Implemented by dev Jordan from Devsplug
+
 function allPrimes(limit) {
     const isPrime = new Array(limit).fill(true);
     isPrime[0] = isPrime[1] = false;
